@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="football">Football</string>
+    <string name="hockey">Hockey</string>
+    <string name="tennis">Tennis</string>
+    <string name="tools">Tools</string>
+    <string name="volleyball">Volleyball</string>
+    <string name="cybersport">Cybersport</string>
+    <string name="basketball">Basketball</string>
+</resources>
